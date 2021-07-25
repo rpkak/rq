@@ -1,3 +1,6 @@
+### RQ 1.4.4 (2021-07-25)
+* Added support for click 8.0. Thanks @rpkak!
+
 ### RQ 1.4.3 (2020-06-28)
 * Added `job.get_position()` and `queue.get_job_position()`. Thanks @aparcar!
 * Longer TTLs for worker keys to prevent them from expiring inside the worker lifecycle. Thanks @selwin!
